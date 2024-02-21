@@ -7,9 +7,7 @@ Este é um projeto feito para o SENAI, no curso de Processos de Produção Indus
 O intuito do projeto é mostrar maneiras divertidas de se usar as ferramentas do office, parodiando a versão do jogo Zelda para criar um jogo de quiz no Power Point integrado com ferramentas de macro e VBA para simular uma jogabilidade.
 
 Grupo Participante do Projeto:
-Vinicius Bariane
-Gabriel Sampaio
-Rafael Oliveira
+Vinicius Bariane, Gabriel Sampaio, Rafael Oliveira
 
 ----------------------
 Imagens
